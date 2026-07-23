@@ -29,7 +29,7 @@ To start project use command
   TO start project use `git init` command
   ---
 ### Code part:
-    ```Python
+    ```python
       def hello():
       print('Hello world')
 
