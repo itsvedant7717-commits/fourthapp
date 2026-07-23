@@ -24,3 +24,14 @@ To start project use command
 
 ### Project Screen shot:
 ![Project Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NGMG0nmPXEKZ-dbGXtOoEKqFlezPp1QMjwWtCJ8jaW3HRZ6GH3SLKw8F&s=10)
+
+### First command
+  TO start project use `git init` command
+  
+### Code part:
+    ```Python
+      def hello():
+      print(`Hello world`)
+
+      hello()
+    ```
