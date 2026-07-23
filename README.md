@@ -23,4 +23,4 @@ To start project use command
 ### Website Link: [ccitworld](https://www.ccitworld.com)
 
 ### Project Screen shot:
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NGMG0nmPXEKZ-dbGXtOoEKqFlezPp1QMjwWtCJ8jaW3HRZ6GH3SLKw8F&s=10
+![Project Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NGMG0nmPXEKZ-dbGXtOoEKqFlezPp1QMjwWtCJ8jaW3HRZ6GH3SLKw8F&s=10)
