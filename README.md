@@ -27,11 +27,11 @@ To start project use command
 
 ### First command
   TO start project use `git init` command
-  
+  ---
 ### Code part:
     ```Python
       def hello():
-      print(`Hello world`)
+      print('Hello world')
 
       hello()
     ```
