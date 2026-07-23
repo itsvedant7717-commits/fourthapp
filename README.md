@@ -29,9 +29,9 @@ To start project use command
   TO start project use `git init` command
   ---
 ### Code part:
-    ```python
-      def hello():
-      print('Hello world')
+  ```python
+        def hello():
+        print('Hello world')
 
-      hello()
-    ```
+        hello()
+  ```
