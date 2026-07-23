@@ -15,3 +15,7 @@ Suscipit dignissimos ipsa fugiat fugit consectetur ma.
 - Screen shot
 - code
 - conclution
+
+### How to start
+To start project use command
+> git init start fourth-project
